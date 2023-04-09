@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body{
+    min-height: 2000px;
+}
+
+section{
+    padding-top: 5rem;
+}
+.jumbotron{
+    padding-top: 6rem;
+    /* margin-bottom: -10px; */
+    background-color: #E6DFCF;
+}
+
+#about{
+    background-color: #1A4846;
+}
+#project{
+    background-color: #E6DFCF;
+}
+.card-text{
+    color: #C5A57E;
+    font-size: 23px;
+}
+
+.card{
+    background-color: #1A4846;
+    border-radius: 25px;
+    border-color: #C5A57E;
+    border-width: 4px;
+}
+
+.card-img-top{
+    border-radius: 25px;
+    border-color: #C5A57E;
+    border-width: 4px;
+}
+
+h1{
+    font-family: Raleway;
+    font-size: 50px;
+}
+
+h2{
+    font-family: Raleway;
+    /* font-size: 50px; */
+}
+
+p{
+    font-family: Raleway;
+    font-size: 17px;
+}
+
+a{
+    font-family: Raleway;
+}
+
+/* .img-thumbnail{
+
+    border-color:black;
+} */
+
